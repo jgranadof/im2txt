@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-9477"
+all_model_checkpoint_paths: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-8507"
+all_model_checkpoint_paths: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-8751"
+all_model_checkpoint_paths: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-8997"
+all_model_checkpoint_paths: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-9242"
+all_model_checkpoint_paths: "C:/Tensorflow/tensorflowGPU0p12/Lib/site-packages/tensorflow/models/im2txt/model/train\\model.ckpt-9477"
